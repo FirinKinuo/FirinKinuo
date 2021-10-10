@@ -2,9 +2,9 @@
 <br>
 <div>
 <img src="imgs/contact.svg" width="32%">
-<a href='t.me/f.kinuo'><img src="imgs/tg.svg" alt='tg' width="12%"></a> &nbsp;
-<a href='mailto:deals@fkinuo.ru' alt='mail'><img src="imgs/mail_to.svg" width="24%"></a> &nbsp;
-<a href='twitter.fkinuo.ru' alt='twitter'><img src="imgs/twitter.svg" width="12%"></a>&nbsp;
+<a href='https://t.me/fkinuo'><img src="imgs/tg.svg" alt='tg' width="12%"></a> &nbsp;
+<a href='mailto:deals@fkinuo.ru'><img src="imgs/mail_to.svg" alt='mail' width="24%"></a> &nbsp;
+<a href='https://twitter.fkinuo.ru'><img src="imgs/twitter.svg" alt='twitter' width="12%"></a>&nbsp;
 </div>
 
 <img src="imgs/information.svg" width="100%">
