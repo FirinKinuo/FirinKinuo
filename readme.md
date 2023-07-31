@@ -3,7 +3,7 @@
 <div>
 <img src="imgs/contact.svg" width="32%">
 <a href='https://t.me/fkinuo'><img src="imgs/tg.svg" alt='tg' width="12%"></a> &nbsp;
-<a href='mailto:deals@fkinuo.ru'><img src="imgs/mail_to.svg" alt='mail' width="24%"></a> &nbsp;
+<a href='mailto:me@fkinuo.ru'><img src="imgs/mail_to.svg" alt='mail' width="24%"></a> &nbsp;
 <a href='https://linkedin.com/in/firinkinuo'><img src="imgs/linkedin.svg" alt='linkedin' width="16%"></a>&nbsp;
 </div>
 
