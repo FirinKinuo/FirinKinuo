@@ -10,11 +10,6 @@
 <img src="imgs/information.svg" width="100%">
 
 <span>
-<img src="imgs/listening.svg">
-
-<a href='(https://spotify.fkinuo.ru)'>
- &nbsp; <img src="https://github-readme-spotify.fkinuo.ru/api/spotify" alt='Spotify 🎶'> </a>
-</span>
 
 <span align="center"><img src="imgs/dashboards.svg" width="100%"></span>
 <br>
