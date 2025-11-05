@@ -10,8 +10,3 @@
 <img src="imgs/information.svg" width="100%">
 
 <span>
-
-<span align="center"><img src="imgs/dashboards.svg" width="100%"></span>
-<br>
-
-![My Wakatime Dashboard ._.](https://github-readme-stats.vercel.app/api/wakatime?username=FirinKinuo&theme=outrun)
